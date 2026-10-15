@@ -8,7 +8,7 @@
 
 ### Linux
 
-`make`, `curl`, and `git`
+`make`, `curl` (or `wget`), and `git`
 
 ### Windows
 

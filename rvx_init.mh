@@ -1,5 +1,5 @@
 ## prerequisite ##
-# Linux   : make, curl, git
+# Linux   : make, curl or wget, git
 # macOS   : xcode-select --install   (make, curl, git)
 # Windows : scoop -> git, make
 #   Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
@@ -38,7 +38,9 @@ install_uv:
 ifeq ($(OS),Windows_NT)
 	powershell -NoProfile -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 else
-	curl -LsSf https://astral.sh/uv/install.sh | sh
+	@if command -v curl >/dev/null; then curl -LsSf https://astral.sh/uv/install.sh | sh; \
+	elif command -v wget >/dev/null; then wget -qO- https://astral.sh/uv/install.sh | sh; \
+	else echo "[FAIL] curl or wget is NOT found: install one of them (e.g. sudo apt update && sudo apt install curl)"; exit 1; fi
 endif
 
 install_python: $(if $(wildcard ${UV_CMD}),,install_uv)
