@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<version_info>
+  <rvx_install/>
+  <rvx_util.url>https://github.com/riscvexpress/rvx_util.git</rvx_util.url>
+  <rvx_util.commit>ad2a419</rvx_util.commit>
+  <rvx_util.date>2026-10-14-16-29</rvx_util.date>
+  <rvx_binary_linux.url>https://github.com/riscvexpress/rvx_binary_linux.git</rvx_binary_linux.url>
+  <rvx_binary_linux.commit>c3270d1</rvx_binary_linux.commit>
+  <rvx_binary_linux.date>2026-10-15-10-39</rvx_binary_linux.date>
+  <rvx_binary_windows.url>https://github.com/riscvexpress/rvx_binary_windows.git</rvx_binary_windows.url>
+  <rvx_binary_windows.commit>c6c0449</rvx_binary_windows.commit>
+  <rvx_binary_windows.date>2026-10-15-10-39</rvx_binary_windows.date>
+  <rvx_synthesizer_linux.url>https://github.com/riscvexpress/rvx_synthesizer_linux.git</rvx_synthesizer_linux.url>
+  <rvx_synthesizer_linux.commit>ae7e2a3</rvx_synthesizer_linux.commit>
+  <rvx_synthesizer_linux.date>2026-10-15-10-43</rvx_synthesizer_linux.date>
+  <rvx_synthesizer_windows.url>https://github.com/riscvexpress/rvx_synthesizer_windows.git</rvx_synthesizer_windows.url>
+  <rvx_synthesizer_windows.commit>8ce6db7</rvx_synthesizer_windows.commit>
+  <rvx_synthesizer_windows.date>2026-10-15-10-48</rvx_synthesizer_windows.date>
+  <rvx_devkit.url>https://github.com/riscvexpress/rvx_devkit.git</rvx_devkit.url>
+  <rvx_devkit.commit>4889795</rvx_devkit.commit>
+  <rvx_devkit.date>2026-10-14-17-09</rvx_devkit.date>
+  <rvx_ssw.url>https://github.com/riscvexpress/rvx_ssw.git</rvx_ssw.url>
+  <rvx_ssw.date>2026-10-14-16-10</rvx_ssw.date>
+  <rvx_ssw.commit>c6d1d89</rvx_ssw.commit>
+  <rvx_hwlib_basic.url>https://github.com/riscvexpress/rvx_hwlib_basic.git</rvx_hwlib_basic.url>
+  <rvx_hwlib_basic.commit>0281d68</rvx_hwlib_basic.commit>
+  <rvx_hwlib_basic.date>2026-10-14-11-24</rvx_hwlib_basic.date>
+  <rvx_platform_example.url>https://github.com/riscvexpress/rvx_platform_example.git</rvx_platform_example.url>
+  <rvx_platform_example.commit>900f83e</rvx_platform_example.commit>
+  <rvx_platform_example.date>2026-10-12-15-47</rvx_platform_example.date>
+  <rvx_hwlib_special/>
+  <rvx_imp_class.url>https://github.com/riscvexpress/rvx_imp_class.git</rvx_imp_class.url>
+  <rvx_imp_class.commit>db825b4</rvx_imp_class.commit>
+  <rvx_imp_class.date>2026-10-08-18-08</rvx_imp_class.date>
+  <xarvis.url>https://github.com/rvx-etri/npx-xarvis.git</xarvis.url>
+  <xarvis.commit>915c1bf</xarvis.commit>
+  <xarvis.date>2026-09-28-09-01</xarvis.date>
+</version_info>

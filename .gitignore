@@ -1,0 +1,26 @@
+*~
+*.swp
+*.swo
+*.bak
+*.sh
+*.zip
+.vscode
+__pycache__
+
+.rvx_*
+rvx_*.log
+rvx_config_python.mh
+rvx_setup.sh
+
+# local
+rvx_config_path.mh
+!*synthesizer/_internal/base_library.zip
+rvx_util/
+rvx_binary/
+rvx_synthesizer/
+rvx_devkit/
+rvx_ssw/
+rvx_hwlib_basic/
+rvx_platform_example/
+xarvis/
+rvx_imp_class/
