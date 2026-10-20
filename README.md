@@ -53,7 +53,7 @@ The installation manual is also available on the homepage.
 
 ### Linux
 
-`make`, `curl`, and `git`
+`make`, `curl` (or `wget`), and `git`
 
 ### Windows
 
