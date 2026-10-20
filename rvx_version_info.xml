@@ -11,8 +11,8 @@
   <rvx_binary_windows.commit>8ca033d</rvx_binary_windows.commit>
   <rvx_binary_windows.date>2026-10-16-14-22</rvx_binary_windows.date>
   <rvx_synthesizer_linux.url>https://github.com/riscvexpress/rvx_synthesizer_linux.git</rvx_synthesizer_linux.url>
-  <rvx_synthesizer_linux.commit>ae7e2a3</rvx_synthesizer_linux.commit>
-  <rvx_synthesizer_linux.date>2026-10-15-10-43</rvx_synthesizer_linux.date>
+  <rvx_synthesizer_linux.commit>8e1ad01</rvx_synthesizer_linux.commit>
+  <rvx_synthesizer_linux.date>2026-10-20-15-47</rvx_synthesizer_linux.date>
   <rvx_synthesizer_windows.url>https://github.com/riscvexpress/rvx_synthesizer_windows.git</rvx_synthesizer_windows.url>
   <rvx_synthesizer_windows.commit>a118d9c</rvx_synthesizer_windows.commit>
   <rvx_synthesizer_windows.date>2026-10-20-15-53</rvx_synthesizer_windows.date>
