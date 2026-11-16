@@ -41,6 +41,14 @@ If `make install` fails with `No rule to make target 'install'`, the submodules 
 
 The installation manual is also available on the homepage.
 
+## Update
+
+Run the following in the top directory to pull the current branch and bring the submodules and the RVX modules up to date.
+
+```sh
+make update
+```
+
 <!-- local -->
 
 ## RISC-V eXpress
