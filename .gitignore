@@ -16,14 +16,12 @@ rvx_setup.sh
 rvx_config_path.mh
 rvx_config_repo.mh
 rvx_util/
-rvx_binary/
-rvx_synthesizer/
 rvx_devkit/
 rvx_ssw/
 rvx_hwlib_basic/
 rvx_platform_example/
 rvx_imp_class/
-xarvis/
+snn_forge/
 
 # local
 !*synthesizer/_internal/base_library.zip
