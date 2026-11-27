@@ -23,8 +23,8 @@
 	<rvx_ssw.date>2026-11-25-13-29</rvx_ssw.date>
 	<rvx_ssw.commit>fe38d1f</rvx_ssw.commit>
 	<rvx_hwlib_basic.url>https://github.com/riscvexpress/rvx_hwlib_basic.git</rvx_hwlib_basic.url>
-	<rvx_hwlib_basic.commit>91e6599</rvx_hwlib_basic.commit>
-	<rvx_hwlib_basic.date>2026-11-25-13-15</rvx_hwlib_basic.date>
+	<rvx_hwlib_basic.commit>3bef9ae</rvx_hwlib_basic.commit>
+	<rvx_hwlib_basic.date>2026-11-27-14-00</rvx_hwlib_basic.date>
 	<rvx_platform_example.url>https://github.com/riscvexpress/rvx_platform_example.git</rvx_platform_example.url>
 	<rvx_platform_example.commit>a6b9118</rvx_platform_example.commit>
 	<rvx_platform_example.date>2026-11-16-16-02</rvx_platform_example.date>
